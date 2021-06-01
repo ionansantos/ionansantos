@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 
 <a href="https://github.com/ionansantos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.ionansantos.vercel.app/api?username=ionansantos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="ionan santos github stats" />
+  <img align="center" src="https://github-readme-stats.ionansantos.vercel.app/api?username=ionansantos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
     
