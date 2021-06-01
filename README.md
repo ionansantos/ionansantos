@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
- Olá , sou ionan santos , um apaixonado desenvolvedor web FrontEnd 
+ Olá, sou ionan santos , um apaixonado desenvolvedor web FrontEnd 
  
  - 🌱 Atualmente Estudo JavaScript e Vue.js
  - 👯 Pretendo ser um desenvolvedor Fullstack
