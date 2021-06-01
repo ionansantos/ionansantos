@@ -1,6 +1,6 @@
 ### Bem Vindo(a) ao meu GitHub 👋 !
 
- Acesse meu Portifólio [aqui] (https://ionansantos.github.io/portifolio/): 
+ Acesse meu Portifólio [aqui]: https://ionansantos.github.io/portifolio/ 
 
 <!--
 **ionansantos/ionansantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
