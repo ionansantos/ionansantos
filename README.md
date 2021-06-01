@@ -1,9 +1,5 @@
 ### Bem Vindo(a) ao meu GitHub 👋 !
 
- Acesse meu Portifólio [aqui]  
-  
-  [aqui]: https://github.com/ionansantos  
-
 <!--
 **ionansantos/ionansantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +21,9 @@ Here are some ideas to get you started:
  
  - 🌱 Atualmente Estudo JavaScript e Vue.js
  - 👯 Pretendo ser um desenvolvedor Fullstack
+ - 😄Acesse meu Portifólio [aqui]  
+  
+  [aqui]: https://github.com/ionansantos  
   
   
   Linguagens e Ferramentas:
