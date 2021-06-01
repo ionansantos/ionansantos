@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<br />
 
  Olá, sou ionan santos , um apaixonado desenvolvedor web FrontEnd 
  
