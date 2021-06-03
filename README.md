@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  - 👯 Pretendo ser um desenvolvedor Fullstack
  - 😄Acesse meu Portifólio [aqui]  
   
-  [aqui]: https://github.com/ionansantos  
+  [aqui]: https://github.com/ionansantos/portifolio  
   
   
   Linguagens e Ferramentas:
