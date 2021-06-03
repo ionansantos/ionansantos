@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  Olá, sou ionan santos , um apaixonado desenvolvedor web FrontEnd 
  
- - 🌱 Atualmente Estudo JavaScript e Vue.js
+ - 🌱 Atualmente Estudo  Vue.js
  - 👯 Pretendo ser um desenvolvedor Fullstack
  - 😄Acesse meu Portifólio [aqui]  
   
