@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <br />
 
  Olá, sou ionan santos , um apaixonado desenvolvedor web FrontEnd 
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionansantos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+39
+​
+40
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionansantos&layout=compact&theme=tokyonight)](https://github.com/ionansantos/github-readme-stats) -->
  - 🌱 Atualmente Estudo  Vue.js
  - 👯 Pretendo ser um desenvolvedor Fullstack
  - 😄Acesse meu Portifólio [aqui]  
@@ -35,9 +39,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionansantos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionansantos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionansantos&layout=compact&theme=tokyonight)](https://github.com/ionansantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionansantos&layout=compact&theme=tokyonight)](https://github.com/ionansantos/github-readme-stats) -->
 
 
 
