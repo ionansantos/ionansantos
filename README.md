@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 
  Olá, sou ionan santos, desenvolvedor Fullstack
- - 🌱 Atualmente lendo um livro "Código limpo"
+ - 🌱 Atualmente lendo o livro "Código limpo"
  - ⚡ Apaixonado por desafios
  - 😄 Acesse meu Portifólio [aqui]  
   
