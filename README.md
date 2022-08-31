@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <br />
 
- Olá, sou ionan santos , um apaixonado desenvolvedor Fullstack
- 
- - 😄Acesse meu Portifólio [aqui]  
+ Olá, sou ionan santos, desenvolvedor Fullstack
+ - 🌱 Atualmente lendo um livro "Código limpo"
+ - ⚡ Apaixonado por desafios
+ - 😄 Acesse meu Portifólio [aqui]  
   
   [aqui]: https://ionansantos.github.io/portifolio  
   
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 
 
