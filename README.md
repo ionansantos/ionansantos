@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <br />
 
  Olá, sou ionan santos, desenvolvedor Backend
- - 🌱 Atualmente lendo o livro "Código limpo"
  - ⚡ Apaixonado por desafios
  - 😄 Acesse meu Portifólio [aqui]  
   
-  [aqui]: https://ionansantos.github.io/portifolio  
+  [aqui]: https://ionansantos.com.br/portfolio/  
   
   
   Linguagens e Ferramentas:
